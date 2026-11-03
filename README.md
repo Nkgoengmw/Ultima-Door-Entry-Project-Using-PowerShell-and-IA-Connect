@@ -124,5 +124,5 @@ Potential enhancements include:
 
 ## Author
 
-**Matome Nkgoeng**  
+**Matome N**  
 Developer
